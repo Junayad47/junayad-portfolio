@@ -1,0 +1,36 @@
+{
+  "name": "junayad-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Junayad Bin Forhad - Entry-level Web & Software Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -s . -l 3000",
+    "build": "echo 'Build completed'",
+    "start": "serve -s . -l 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "web developer",
+    "software developer",
+    "javascript",
+    "responsive design",
+    "node.js",
+    "express.js",
+    "python",
+    "c++",
+    "seneca college"
+  ],
+  "author": "Junayad Bin Forhad <Junayadjnd47@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Junayad47/portfolio.git"
+  },
+  "homepage": "https://your-portfolio-domain.vercel.app"
+}

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://your-portfolio-domain.vercel.app/sitemap.xml
+
+# Allow search engines to crawl and index the portfolio
+# This helps with SEO and makes your portfolio discoverable
+
+# Disallow specific directories (if any in the future)
+# Disallow: /admin/
+# Disallow: /private/
