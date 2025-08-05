@@ -4,6 +4,9 @@
   "github": {
     "silent": true
   },
+  "buildCommand": "",
+  "outputDirectory": "./",
+  "installCommand": "npm install --production=false",
   "redirects": [
     {
       "source": "/home",
