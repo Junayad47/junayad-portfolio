@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "npx serve .",
-    "build": "echo 'Static site - no build required'",
+    "build": "echo 'Static site ready'",
     "start": "npx serve .",
     "deploy": "vercel --prod"
   },
@@ -38,6 +38,6 @@
     "serve": "^14.2.1"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": "18.x"
   }
 }
